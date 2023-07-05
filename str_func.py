@@ -6,6 +6,7 @@ def get_title_str(str_):
     """
     return str_.title()
 
+
 def get_upper_str(str_):
     """
 
